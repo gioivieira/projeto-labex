@@ -48,6 +48,6 @@ https://alive-bone.surge.sh/
 
 ## 📝Sobre a licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sobe a licença [MIT](./LICENSE).
 
 
