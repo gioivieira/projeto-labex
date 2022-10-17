@@ -7,7 +7,10 @@ Este projeto foi desenvolvido como parte da fixação do conteúdo sobre React.j
 <a href="https://github.com/gioivieira" target="_blank"><p>Giovana Inez Vieira</p></a>
 
 ## 🔗Link para acessar
-https://alive-bone.surge.sh/
+https://alive-bone.surge.sh/ <br>
+Login e senha para acesso a "Administrative Area": <br>
+astrodev@labenu.com <br>
+12345678
 
 ## ☑️Requisitos de funcionalidade
 - Requisição de todas as viagens cadastradas na API;
